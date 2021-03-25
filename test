@@ -16,18 +16,6 @@
       "name": "python3"
     }
   },
-  "cells": [
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "x8Q7Un821X1A"
-      },
-      "source": [
-        "##### Copyright 2018 The TensorFlow Hub Authors.\n",
-        "\n",
-        "Licensed under the Apache License, Version 2.0 (the \"License\");"
-      ]
-    },
     {
       "cell_type": "code",
       "metadata": {
